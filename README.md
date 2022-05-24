@@ -1,2 +1,2 @@
-# SoftUni-Projects
-Projects from my education @Softuni
+# First Projects
+My first projects in programming
